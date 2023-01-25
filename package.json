@@ -1,0 +1,15 @@
+{
+  "name": "bot-siak-war",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "e2e": "codeceptjs run --steps"
+  },
+  "author": "Raisyam",
+  "license": "ISC",
+  "devDependencies": {
+    "codeceptjs": "^3.3.7",
+    "puppeteer": "^19.6.0"
+  }
+}
